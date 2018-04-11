@@ -61,7 +61,7 @@ public class Circulos extends JFrame implements ActionListener{
             }
         }else{
             
-            g.clearRect(0, 0, 400,200);
+            g.clearRect(0, 50, 400,200);
         }
     }
 }
