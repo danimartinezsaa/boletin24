@@ -60,7 +60,7 @@ public class Circulos extends JFrame implements ActionListener{
                 g.drawOval(x1, y1, 50, 50);
             }
         }else{
-            g=panel.getGraphics();
+            
             g.clearRect(0, 0, 400,200);
         }
     }
